@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gwhac-a-mole/static/css/main.579f2c04.css",
-    "main.js": "/gwhac-a-mole/static/js/main.eb155b1d.js",
+    "main.js": "/gwhac-a-mole/static/js/main.937cd90a.js",
     "static/js/453.f3c3bebb.chunk.js": "/gwhac-a-mole/static/js/453.f3c3bebb.chunk.js",
     "static/media/hillwmole.png": "/gwhac-a-mole/static/media/hillwmole.9c4f8039f9983d7cf00d.png",
     "index.html": "/gwhac-a-mole/index.html",
     "main.579f2c04.css.map": "/gwhac-a-mole/static/css/main.579f2c04.css.map",
-    "main.eb155b1d.js.map": "/gwhac-a-mole/static/js/main.eb155b1d.js.map",
+    "main.937cd90a.js.map": "/gwhac-a-mole/static/js/main.937cd90a.js.map",
     "453.f3c3bebb.chunk.js.map": "/gwhac-a-mole/static/js/453.f3c3bebb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.579f2c04.css",
-    "static/js/main.eb155b1d.js"
+    "static/js/main.937cd90a.js"
   ]
 }
