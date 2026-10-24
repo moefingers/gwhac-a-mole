@@ -113,7 +113,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>G<strong>whac</strong>-A-Mole</h1>
+      <h1>Gwhac-A-Mole <span className="subtitle">(Guacamole)</span></h1>
       <h2>{status}</h2>
 
       {gameState === "pregame" ?

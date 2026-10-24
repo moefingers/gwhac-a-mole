@@ -3,7 +3,12 @@
 }
 .App {
   text-align: center;
-  
+}
+
+h1 .subtitle {
+  color: #22c55e;
+  font-weight: normal;
+  font-size: 0.7em;
 }
 
 .score-time-bar {
